@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background circle -->
+    <path
+        android:fillColor="#1A0A2E"
+        android:pathData="M0,0h108v108H0z" />
+
+    <!-- Gradient overlay -->
+    <path
+        android:fillColor="#16213E"
+        android:fillAlpha="0.5"
+        android:pathData="M0,54C0,24.2,24.2,0,54,0s54,24.2,54,54S83.8,108,54,108S0,83.8,0,54z" />
+
+    <!-- Shield body -->
+    <path
+        android:fillColor="#BB86FC"
+        android:pathData="M54,22L30,32v20c0,14.4,10.2,27.8,24,31c13.8,-3.2,24,-16.6,24,-31V32L54,22z" />
+
+    <!-- Shield inner -->
+    <path
+        android:fillColor="#1A0A2E"
+        android:pathData="M54,26L34,34.5v17.5c0,12.4,8.6,23.8,20,26.5c11.4,-2.7,20,-14.1,20,-26.5V34.5L54,26z" />
+
+    <!-- Key circle -->
+    <path
+        android:fillColor="#BB86FC"
+        android:pathData="M54,42m-8,0a8,8,0,1,1,16,0a8,8,0,1,1,-16,0" />
+
+    <!-- Key inner circle -->
+    <path
+        android:fillColor="#1A0A2E"
+        android:pathData="M54,42m-4,0a4,4,0,1,1,8,0a4,4,0,1,1,-8,0" />
+
+    <!-- Key shaft -->
+    <path
+        android:fillColor="#BB86FC"
+        android:pathData="M52,49h4v16h-4z" />
+
+    <!-- Key teeth -->
+    <path
+        android:fillColor="#BB86FC"
+        android:pathData="M56,58h5v3h-5zM56,63h3v3h-3z" />
+</vector>

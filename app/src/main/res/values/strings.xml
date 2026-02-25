@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">HiveKey</string>
+    <string name="tagline">Secure Access Control</string>
+
+    <!-- Splash -->
+    <string name="splash_loading">Initializing secure environment…</string>
+
+    <!-- Panel Selection -->
+    <string name="panel_title">Select Your Panel</string>
+    <string name="panel_subtitle">Choose how you want to access HiveKey</string>
+    <string name="panel_admin">ADMIN PANEL</string>
+    <string name="panel_admin_desc">Manage access, view logs, and control credentials</string>
+    <string name="panel_user">USER PANEL</string>
+    <string name="panel_user_desc">Access your digital passes and profile</string>
+
+    <!-- Login -->
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to your secure account</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">AUTHENTICATE</string>
+    <string name="no_account">Don\'t have an account? </string>
+    <string name="create_account">Create Account</string>
+
+    <!-- Signup -->
+    <string name="signup_title">Create Account</string>
+    <string name="signup_subtitle">Set up your secure identity</string>
+    <string name="hint_username">Full Name</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="btn_signup">REGISTER</string>
+    <string name="have_account">Already have an account? </string>
+    <string name="sign_in">Sign In</string>
+    <string name="tap_selfie">📸 Tap to take a selfie</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="welcome_user">Welcome, %s</string>
+    <string name="role_admin">ADMIN</string>
+    <string name="role_user">USER</string>
+    <string name="card_issue_pass">Issue Digital Pass</string>
+    <string name="card_manage_wifi">Manage Wi-Fi</string>
+    <string name="card_access_logs">Access Logs</string>
+    <string name="card_my_passes">My Digital Passes</string>
+    <string name="card_my_profile">My Profile</string>
+    <string name="card_cloudinary_db">Cloud Database</string>
+    <string name="card_developer">Developer Info</string>
+    <string name="card_terms">Terms &amp; Conditions</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="greeting_morning">Good Morning ☀️</string>
+    <string name="greeting_afternoon">Good Afternoon 🌤️</string>
+    <string name="greeting_evening">Good Evening 🌙</string>
+    <string name="location_unknown">📍 Locating…</string>
+
+    <!-- Profile -->
+    <string name="profile_title">Profile</string>
+    <string name="label_name">Name</string>
+    <string name="label_email">Email</string>
+    <string name="label_role">Role</string>
+    <string name="label_joined">Member Since</string>
+
+    <!-- Developer -->
+    <string name="dev_title">Developer &amp; Contributors</string>
+    <string name="dev_name">Prateek Das</string>
+    <string name="dev_role_title">Lead Developer</string>
+    <string name="dev_bio">Passionate about building secure, elegant mobile applications that make a difference.</string>
+    <string name="contrib_title">Contributors</string>
+    <string name="contrib_1">Abishek Kumar Singh</string>
+    <string name="contrib_2">Kishlay Mishra</string>
+    <string name="app_version">Version 1.0</string>
+    <string name="made_with">Made with ❤️ in India</string>
+
+    <!-- Terms -->
+    <string name="terms_title">Terms &amp; Conditions</string>
+    <string name="terms_text">
+HIVEKEY — TERMS AND CONDITIONS OF USE\n\n
+Last Updated: February 2026\n\n
+By downloading, installing, or using the HiveKey application ("App"), you agree to be bound by these Terms and Conditions ("Terms"). Please read them carefully before using the App.\n\n
+
+1. ACCEPTANCE OF TERMS\n
+By accessing or using HiveKey, you acknowledge that you have read, understood, and agree to be bound by these Terms. If you do not agree, please discontinue use of the App immediately.\n\n
+
+2. DESCRIPTION OF SERVICE\n
+HiveKey is a Secure Access Control Management System designed for organizations and enterprises. The App provides:\n
+• Digital pass issuance and management\n
+• Wi-Fi credential management\n
+• Access log monitoring and audit trails\n
+• Role-based access control (RBAC)\n
+• Identity verification through biometric capture\n
+• Cloud-based data storage via Cloudinary\n\n
+
+3. USER ACCOUNTS AND REGISTRATION\n
+a) You must provide accurate, current, and complete information during registration.\n
+b) You are responsible for maintaining the confidentiality of your account credentials.\n
+c) You must notify your administrator immediately of any unauthorized use of your account.\n
+d) Accounts are classified as either "Admin" or "User" with different access levels.\n\n
+
+4. DATA COLLECTION AND PRIVACY\n
+a) The App collects and stores the following data:\n
+   — Full name and email address\n
+   — Profile photographs (selfies) for identity verification\n
+   — Access timestamps and authentication logs\n
+   — Device location data for security auditing\n
+b) Profile photographs are stored securely on Cloudinary\'s cloud infrastructure with industry-standard encryption.\n
+c) All passwords are hashed using SHA-256 encryption and are never stored in plaintext.\n
+d) Location data is used solely for security audit purposes and is not shared with third parties.\n\n
+
+5. ACCEPTABLE USE POLICY\n
+You agree NOT to:\n
+a) Attempt to gain unauthorized access to admin panels or other user accounts.\n
+b) Reverse engineer, decompile, or disassemble any part of the App.\n
+c) Use the App for any unlawful or fraudulent purpose.\n
+d) Share your access credentials with unauthorized personnel.\n
+e) Tamper with or falsify identity verification data.\n\n
+
+6. INTELLECTUAL PROPERTY\n
+All content, features, and functionality of HiveKey — including but not limited to design, code, logos, and documentation — are the exclusive property of the development team and are protected by applicable intellectual property laws.\n\n
+
+7. DISCLAIMER OF WARRANTIES\n
+THE APP IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. WE DO NOT GUARANTEE UNINTERRUPTED OR ERROR-FREE OPERATION OF THE APP.\n\n
+
+8. LIMITATION OF LIABILITY\n
+IN NO EVENT SHALL THE DEVELOPERS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING FROM THE USE OF THIS APP.\n\n
+
+9. MODIFICATIONS TO TERMS\n
+We reserve the right to modify these Terms at any time. Continued use of the App after changes constitutes acceptance of the modified Terms.\n\n
+
+10. GOVERNING LAW\n
+These Terms shall be governed by and construed in accordance with the laws of India.\n\n
+
+11. CONTACT\n
+For questions regarding these Terms, please contact the development team through the Developer Info section within the App.\n\n
+© 2026 HiveKey. All rights reserved.
+    </string>
+</resources>

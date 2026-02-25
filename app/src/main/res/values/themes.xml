@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.HiveKey" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_primary</item>
+        <item name="colorPrimaryDark">@color/purple_dark</item>
+        <item name="colorAccent">@color/cyan_accent</item>
+        <item name="android:windowBackground">@color/bg_dark</item>
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:navigationBarColor">@color/bg_dark</item>
+    </style>
+
+    <style name="Theme.HiveKey" parent="Base.Theme.HiveKey" />
+
+    <!-- Splash theme: fully immersive -->
+    <style name="Theme.HiveKey.Splash" parent="Theme.HiveKey">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>
